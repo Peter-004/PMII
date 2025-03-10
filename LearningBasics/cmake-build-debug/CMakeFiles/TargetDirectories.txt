@@ -1,0 +1,3 @@
+C:/Users/opemi/CLionProjects/LearningBasics/cmake-build-debug/CMakeFiles/LearningBasics.dir
+C:/Users/opemi/CLionProjects/LearningBasics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/opemi/CLionProjects/LearningBasics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
